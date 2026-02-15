@@ -1,0 +1,7 @@
+{
+  "name": "Copy of InnoAgent - 奇异博士创新项目教练",
+  "description": "基于奇异博士（Doctor Strange）主题的创新项目教练，利用Gemini AI帮助创新创业者进行项目打磨、商业模式市场预测及多维度颠覆式创新战略分析。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
