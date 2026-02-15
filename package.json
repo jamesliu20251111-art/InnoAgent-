@@ -1,5 +1,5 @@
 {
-  "name": "copy-of-innoagent---奇异博士创新项目教练",
+  "name": "innoagent---奇异博士创新项目教练",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "@google/genai": "^1.41.0",
-    "lucide-react": "^0.564.0",
-    "react": "^19.2.4"
+    "lucide-react": "^0.564.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
